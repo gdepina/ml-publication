@@ -1,3 +1,9 @@
-# ml-publication
+# ml-publication 
 
-##npm test para ejecutar!
+### Installing
+
+Clonar o descargar el repositorio + ejecutar en consola
+
+```
+npm test
+```
