@@ -1,0 +1,34 @@
+section {
+  display: inline-block;
+  vertical-align: top;
+  padding: $pixrepeat;
+}
+
+.wrapper-container{
+    width: 95%;
+    margin: 1% auto;
+}
+
+.wrapper-combos {
+    padding: 0px;
+
+    label {
+        width: 50px;
+    }
+}
+
+.wrapper-price-big {
+    font-size: 30px;
+}
+
+.wrapper-top-small{
+    padding-top: 5px;
+}
+
+.wrapper-top{
+    padding-top: 20px;
+}
+
+.wrapper-carousel{
+    width: 500px;
+}
